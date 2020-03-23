@@ -14,6 +14,12 @@ interest towards studies because of that).
 Here I try both ways to execute a simple app. 
 Maybe I can then get knowledge when it's better use one or the other. 
 
+# Tetris game with React Hooks
 
+Accidentally I found Thomas Weibenfalks Udemy course for coding React Tetris and I love Tetris. 
+I have always loved the game. So, one thing led to another and I'm doing it. 
+Thomas has told he is not a game developer but he wanted to test this, so I tought that I'm not either but this is some 
+serious fun to learn about Hooks and so on. 
 
+Now I have created the basic game stage and ready to rock = code the actual game!
 
